@@ -25,14 +25,14 @@
             <ul>
                 <li><a href="index.html">Home</a></li>
                 <li><a href="#menu">Menu</a></li>
-                <li><a href="adminpaneel.php">Admin</a></li>
+                <li><a href="login.php">Admin</a></li>
             </ul>
         </nav>
         <div id="mobile_menu">
             <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="">Menu</a></li>
-                <li><a href="adminpaneel.php">Admin</a></li>
+                <li><a href="login.php">Admin</a></li>
             </ul>
         </div>
     </div>
