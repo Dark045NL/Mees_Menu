@@ -90,16 +90,14 @@
             </div>
         </div>
     </div>
-<div id="opening_hours">
-    <h2>Opening Hours</h2>
+<div id="opening_hours" style="position: fixed; bottom: 10px; right: 10px; font-size: 14px;">
+    <h2>OpeningsTijden</h2>
     <ul>
-        <li>Monday: 9:00 AM - 6:00 PM</li>
-        <li>Tuesday: 9:00 AM - 6:00 PM</li>
-        <li>Wednesday: 9:00 AM - 6:00 PM</li>
-        <li>Thursday: 9:00 AM - 6:00 PM</li>
-        <li>Friday: 9:00 AM - 8:00 PM</li>
-        <li>Saturday: 10:00 AM - 8:00 PM</li>
-        <li>Sunday: Closed</li>
+        <li>Maandag: 9:00  - 15:00 </li>
+        <li>Dinsdag: 9:00  - 15:00 </li>
+        <li>Woensdag: 9:00  - 15:00 </li>
+        <li>Donderdag: 9:00  - 15:00 </li>
+        <li>Vrijdag: 9:00  - 15:00 </li>
     </ul>
 </div>
     
