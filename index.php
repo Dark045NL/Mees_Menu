@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,6 +11,7 @@
     <link rel="stylesheet" type="text/css" href="style.css">
     <title>Mees Catering</title>
 </head>
+
 <body>
     <?php include 'menu_functions.php'; ?>
     <div id="hero">
@@ -26,6 +28,7 @@
                 <li><a href="index.html">Home</a></li>
                 <li><a href="#menu">Menu</a></li>
                 <li><a href="login.php">Admin</a></li>
+                <li><a onclick="alert('Maandag: 9:00 - 15:00\nDinsdag: 9:00 - 15:00\nWoensdag: 9:00 - 15:00\nDonderdag: 9:00 - 15:00\nVrijdag: 9:00 - 15:00')">Openingstijden</a></li>
             </ul>
         </nav>
         <div id="mobile_menu">
@@ -33,6 +36,7 @@
                 <li><a href="">Home</a></li>
                 <li><a href="">Menu</a></li>
                 <li><a href="login.php">Admin</a></li>
+                <li><a onclick="alert('Maandag: 9:00 - 15:00\nDinsdag: 9:00 - 15:00\nWoensdag: 9:00 - 15:00\nDonderdag: 9:00 - 15:00\nVrijdag: 9:00 - 15:00')">Openingstijden</a></li>
             </ul>
         </div>
     </div>
@@ -90,16 +94,5 @@
             </div>
         </div>
     </div>
-<div id="opening_hours" style="position: fixed; bottom: 10px; right: 10px; font-size: 14px;">
-    <h2>OpeningsTijden</h2>
-    <ul>
-        <li>Maandag: 9:00  - 15:00 </li>
-        <li>Dinsdag: 9:00  - 15:00 </li>
-        <li>Woensdag: 9:00  - 15:00 </li>
-        <li>Donderdag: 9:00  - 15:00 </li>
-        <li>Vrijdag: 9:00  - 15:00 </li>
-    </ul>
-</div>
-    
 </body>
 </html>
