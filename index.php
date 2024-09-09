@@ -18,6 +18,7 @@
         <div id="hero_content">
             <h1>Mees Catering</h1>
             <h2>De catering van Vista college</h2>
+            <a href="#menu">Menu</a>
         </div>
     </div>
 
